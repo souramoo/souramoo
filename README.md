@@ -12,4 +12,4 @@ I have extensive experience in **building technology to support social activism*
 
 You'll also find fun projects, e.g. a [message board people can text](https://github.com/souramoo/TextWall) at parties, a [spatial video chat system](https://github.com/souramoo/party) to host more natural parties during a global pandemic, some of my work in [Android reverse-engineering](https://github.com/souramoo/Needle), web apps (e.g. a [comments plugin](https://github.com/souramoo/commentoplusplus) for static websites), [home automation](https://github.com/souramoo/ReverseEngineeredMiLightBluetooth) and more.
 
-✉ Reach out at my email if you want to chat 😊
+✉ Reach out by email/twitter if you want to chat 😊
