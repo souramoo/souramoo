@@ -8,7 +8,7 @@ I'm a **British Physician-Scientist** in-training (studying for my PhD and a med
 
 - I'm **Co-President of St Catharine's College MCR** (the society for graduate students) and I publish parts of our online infrastructure including... 🎓
    - The [formal hall booking system](https://github.com/souramoo/mcr-formal-hall)
-   - Projects to **improve transparency for social good**, e.g. the [accommodation database](https://github.com/souramoo/mcr-rooms-database) to easily compare college rents with the private market, and used to negotiate rent arrangements on behalf of all of the graduate students.
+   - Projects to **improve transparency for social good**, e.g. the [accommodation database](https://github.com/souramoo/mcr-room-database) to easily compare college rents with the private market, and used to negotiate rent arrangements on behalf of all of the graduate students.
 
 - Extensive experience in **building tech for social activism**, and I build the tech stack of a [widening access to medicine](https://wearemedics.com) charity. 🗣
 
