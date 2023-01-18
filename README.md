@@ -1,6 +1,6 @@
 # Hi there, I'm [Souradip](https://souradip.com) 👋
 
-I'm a **British Physician-Scientist** in-training (studying for my PhD and a medical degree from Cambridge). 🩺🧪
+I'm a **British Physician-Scientist** in-training. 🩺🧪
 
 - I've been writing code since 2006. 💻
 
